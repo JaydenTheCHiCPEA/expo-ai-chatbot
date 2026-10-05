@@ -1,0 +1,1650 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Manning&#039;s School &#8211; Vita Sine Litteris Mors Est</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//cdn.canvasjs.com' />
+<link rel="alternate" type="application/rss+xml" title="Manning&#039;s School &raquo; Feed" href="https://www.manningsschoolja.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Manning&#039;s School &raquo; Comments Feed" href="https://www.manningsschoolja.org/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.manningsschoolja.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.8"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='twb-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C500%2C600%2C700%2C800&#038;display=swap&#038;ver=6.8.8' media='all' />
+<link rel='stylesheet' id='twbbwg-global-css' href='https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/booster/assets/css/global.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='mec-select2-style-css' href='https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.min.css?ver=6.5.5' media='all' />
+<link rel='stylesheet' id='mec-font-icons-css' href='https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='mec-frontend-style-css' href='https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.min.css?ver=6.5.5' media='all' />
+<link rel='stylesheet' id='mec-tooltip-style-css' href='https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='mec-tooltip-shadow-style-css' href='https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='featherlight-css' href='https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='mec-lity-style-css' href='https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='mec-general-calendar-style-css' href='https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/css/mec-general-calendar.css?ver=6.8.8' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='wp-components-css' href='https://www.manningsschoolja.org/wp-includes/css/dist/components/style.min.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='wp-preferences-css' href='https://www.manningsschoolja.org/wp-includes/css/dist/preferences/style.min.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='https://www.manningsschoolja.org/wp-includes/css/dist/block-editor/style.min.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='popup-maker-block-library-style-css' href='https://www.manningsschoolja.org/wp-content/plugins/popup-maker/dist/packages/block-library-style.css?ver=5810521f984829e19651' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='bwg_fonts-css' href='https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' media='all' />
+<link rel='stylesheet' id='sumoselect-css' href='https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.4.6' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css' href='https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=3.1.5' media='all' />
+<link rel='stylesheet' id='bwg_googlefonts-css' href='https://fonts.googleapis.com/css?family=Ubuntu&#038;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css' href='https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.8.42' media='all' />
+<link rel='stylesheet' id='pj-news-ticker-css' href='https://www.manningsschoolja.org/wp-content/plugins/pj-news-ticker/public/css/pj-news-ticker.css?ver=1.9.8' media='all' />
+<link rel='stylesheet' id='templaters-css' href='https://www.manningsschoolja.org/wp-content/plugins/skt-templates/css/templaters.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='social-widget-css' href='https://www.manningsschoolja.org/wp-content/plugins/social-media-widget/social_widget.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.manningsschoolja.org/wp-includes/css/dashicons.min.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://www.manningsschoolja.org/wp-includes/css/admin-bar.min.css?ver=6.8.8' media='all' />
+<style id='admin-bar-inline-css'>
+
+    .canvasjs-chart-credit{
+        display: none !important;
+    }
+    #vtrtsFreeChart canvas {
+    border-radius: 6px;
+}
+
+.vtrts-free-adminbar-weekly-title {
+    font-weight: bold;
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 6px;
+}
+
+        #wpadminbar #wp-admin-bar-vtrts_free_top_button .ab-icon:before {
+            content: "\f185";
+            color: #1DAE22;
+            top: 3px;
+        }
+    #wp-admin-bar-vtrts_pro_top_button .ab-item {
+        min-width: 180px;
+    }
+    .vtrts-free-adminbar-dropdown {
+        min-width: 420px ;
+        padding: 18px 18px 12px 18px;
+        background: #23282d;
+        color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 4px 24px rgba(0,0,0,0.15);
+        margin-top: 10px;
+    }
+    .vtrts-free-adminbar-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 18px 18px; /* row-gap column-gap */
+        margin-bottom: 18px;
+    }
+    .vtrts-free-adminbar-card {
+        background: #2c3338;
+        border-radius: 8px;
+        padding: 18px 18px 12px 18px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    /* Extra margin for the right column */
+    .vtrts-free-adminbar-card:nth-child(2),
+    .vtrts-free-adminbar-card:nth-child(4) {
+        margin-left: 10px !important;
+        padding-left: 10px !important;
+                padding-top: 6px !important;
+
+        margin-right: 10px !important;
+        padding-right : 10px !important;
+        margin-top: 10px !important;
+    }
+    .vtrts-free-adminbar-card:nth-child(1),
+    .vtrts-free-adminbar-card:nth-child(3) {
+        margin-left: 10px !important;
+        padding-left: 10px !important;
+                padding-top: 6px !important;
+
+        margin-top: 10px !important;
+                padding-right : 10px !important;
+
+    }
+    /* Extra margin for the bottom row */
+    .vtrts-free-adminbar-card:nth-child(3),
+    .vtrts-free-adminbar-card:nth-child(4) {
+        margin-top: 6px !important;
+        padding-top: 6px !important;
+        margin-top: 10px !important;
+    }
+    .vtrts-free-adminbar-card-title {
+        font-size: 14px;
+        font-weight: 800;
+        margin-bottom: 6px;
+        color: #fff;
+    }
+    .vtrts-free-adminbar-card-value {
+        font-size: 22px;
+        font-weight: bold;
+        color: #1DAE22;
+        margin-bottom: 4px;
+    }
+    .vtrts-free-adminbar-card-sub {
+        font-size: 12px;
+        color: #aaa;
+    }
+    .vtrts-free-adminbar-btn-wrap {
+        text-align: center;
+        margin-top: 8px;
+    }
+
+    #wp-admin-bar-vtrts_free_top_button .ab-item{
+    min-width: 80px !important;
+        padding: 0px !important;
+    .vtrts-free-adminbar-btn {
+        display: inline-block;
+        background: #1DAE22;
+        color: #fff !important;
+        font-weight: bold;
+        padding: 8px 28px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 15px;
+        transition: background 0.2s;
+        margin-top: 8px;
+    }
+    .vtrts-free-adminbar-btn:hover {
+        background: #15991b;
+        color: #fff !important;
+    }
+
+    .vtrts-free-adminbar-dropdown-wrap { min-width: 0; padding: 0; }
+    #wpadminbar #wp-admin-bar-vtrts_free_top_button .vtrts-free-adminbar-dropdown { display: none; position: absolute; left: 0; top: 100%; z-index: 99999; }
+    #wpadminbar #wp-admin-bar-vtrts_free_top_button:hover .vtrts-free-adminbar-dropdown { display: block; }
+    
+        .ab-empty-item #wp-admin-bar-vtrts_free_top_button-default .ab-empty-item{
+    height:0px !important;
+    padding :0px !important;
+     }
+            #wpadminbar .quicklinks .ab-empty-item{
+        padding:0px !important;
+    }
+    .vtrts-free-adminbar-dropdown {
+    min-width: 420px;
+    padding: 18px 18px 12px 18px;
+    background: #23282d;
+    color: #fff;
+    border-radius: 12px; /* more rounded */
+    box-shadow: 0 8px 32px rgba(0,0,0,0.25); /* deeper shadow */
+    margin-top: 10px;
+}
+
+.vtrts-free-adminbar-btn-wrap {
+    text-align: center;
+    margin-top: 18px; /* more space above */
+}
+
+.vtrts-free-adminbar-btn {
+    display: inline-block;
+    background: #1DAE22;
+    color: #fff !important;
+    font-weight: bold;
+    padding: 5px 22px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 17px;
+    transition: background 0.2s, box-shadow 0.2s;
+    margin-top: 8px;
+    box-shadow: 0 2px 8px rgba(29,174,34,0.15);
+    text-align: center;
+    line-height: 1.6;
+    
+}
+.vtrts-free-adminbar-btn:hover {
+    background: #15991b;
+    color: #fff !important;
+    box-shadow: 0 4px 16px rgba(29,174,34,0.25);
+}
+    
+
+
+</style>
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.21.4' media='all' />
+<link rel='stylesheet' id='elementor-post-107-css' href='https://www.manningsschoolja.org/wp-content/uploads/elementor/css/post-107.css?ver=1722630175' media='all' />
+<link rel='stylesheet' id='elementor-post-150-css' href='https://www.manningsschoolja.org/wp-content/uploads/elementor/css/post-150.css?ver=1740062809' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css' href='https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css' href='https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/css/style.min.css?ver=3.4.3' media='all' />
+<style id='oceanwp-style-inline-css'>
+
+		.page-template-builder-fullwidth-std .page-header {
+			display: none;
+		}
+	
+</style>
+<link rel='stylesheet' id='elementor-icons-css' href='https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='https://www.manningsschoolja.org/wp-content/uploads/elementor/css/post-5.css?ver=1722630176' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://www.manningsschoolja.org/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.21.2' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://www.manningsschoolja.org/wp-content/uploads/elementor/css/global.css?ver=1722630176' media='all' />
+<link rel='stylesheet' id='elementor-post-23-css' href='https://www.manningsschoolja.org/wp-content/uploads/elementor/css/post-23.css?ver=1763050776' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css' href='https://www.manningsschoolja.org/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.8.8' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAclonica%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CArbutus+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.8.8' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><!--n2css--><!--n2js--><script src="https://www.manningsschoolja.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.manningsschoolja.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/booster/assets/js/circle-progress.js?ver=1.2.2" id="twbbwg-circle-js"></script>
+<script id="twbbwg-global-js-extra">
+var twb = {"nonce":"a3ee70bc5b","ajax_url":"https:\/\/www.manningsschoolja.org\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.manningsschoolja.org\/wp-content\/plugins\/photo-gallery\/booster","href":"https:\/\/www.manningsschoolja.org\/wp-admin\/admin.php?page=twbbwg_photo-gallery"};
+var twb = {"nonce":"a3ee70bc5b","ajax_url":"https:\/\/www.manningsschoolja.org\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.manningsschoolja.org\/wp-content\/plugins\/photo-gallery\/booster","href":"https:\/\/www.manningsschoolja.org\/wp-admin\/admin.php?page=twbbwg_photo-gallery"};
+</script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/booster/assets/js/global.js?ver=1.0.0" id="twbbwg-global-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/js/mec-general-calendar.js?ver=6.5.5" id="mec-general-calendar-script-js"></script>
+<script id="mec-frontend-script-js-extra">
+var mecdata = {"day":"day","days":"days","hour":"hour","hours":"hours","minute":"minute","minutes":"minutes","second":"second","seconds":"seconds","elementor_edit_mode":"no","recapcha_key":"","ajax_url":"https:\/\/www.manningsschoolja.org\/wp-admin\/admin-ajax.php","fes_nonce":"9c83b0622c","current_year":"2026","current_month":"08","datepicker_format":"yy-mm-dd&Y-m-d"};
+</script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/js/frontend.js?ver=6.5.5" id="mec-frontend-script-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/js/events.js?ver=6.5.5" id="mec-events-script-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.4.6" id="sumoselect-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/js/tocca.min.js?ver=2.0.9" id="bwg_mobile-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=3.1.5" id="mCustomScrollbar-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/js/jquery.fullscreen.min.js?ver=0.6.0" id="jquery-fullscreen-js"></script>
+<script id="bwg_frontend-js-extra">
+var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search.","bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Search","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Show Comments","bwg_hide_comments":"Hide Comments","bwg_restore":"Restore","bwg_maximize":"Maximize","bwg_fullscreen":"Fullscreen","bwg_exit_fullscreen":"Exit Fullscreen","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pause","is_pro":"","bwg_play":"Play","bwg_pause":"Pause","bwg_hide_info":"Hide info","bwg_show_info":"Show info","bwg_hide_rating":"Hide rating","bwg_show_rating":"Show rating","ok":"Ok","cancel":"Cancel","select_all":"Select all","lazy_load":"0","lazy_loader":"https:\/\/www.manningsschoolja.org\/wp-content\/plugins\/photo-gallery\/images\/ajax_loader.png","front_ajax":"0","bwg_tag_see_all":"see all tags","bwg_tag_see_less":"see less tags"};
+</script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.8.42" id="bwg_frontend-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/pj-news-ticker/public/js/pj-news-ticker.js?ver=1.9.8" id="pj-news-ticker-js"></script>
+<link rel="https://api.w.org/" href="https://www.manningsschoolja.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.manningsschoolja.org/wp-json/wp/v2/pages/23" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.manningsschoolja.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.8" />
+<link rel="canonical" href="https://www.manningsschoolja.org/" />
+<link rel='shortlink' href='https://www.manningsschoolja.org/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.manningsschoolja.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.manningsschoolja.org%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.manningsschoolja.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.manningsschoolja.org%2F&#038;format=xml" />
+<script>document.createElement( "picture" );if(!window.HTMLPictureElement && document.addEventListener) {window.addEventListener("DOMContentLoaded", function() {var s = document.createElement("script");s.src = "https://www.manningsschoolja.org/wp-content/plugins/webp-express/js/picturefill.min.js";document.body.appendChild(s);});}</script><meta name="generator" content="Elementor 3.21.4; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<link rel="icon" href="https://www.manningsschoolja.org/wp-content/uploads/2021/12/Mannings-School-Insignia-Retina-300x300-1.png" sizes="32x32" />
+<link rel="icon" href="https://www.manningsschoolja.org/wp-content/uploads/2021/12/Mannings-School-Insignia-Retina-300x300-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.manningsschoolja.org/wp-content/uploads/2021/12/Mannings-School-Insignia-Retina-300x300-1.png" />
+<meta name="msapplication-TileImage" content="https://www.manningsschoolja.org/wp-content/uploads/2021/12/Mannings-School-Insignia-Retina-300x300-1.png" />
+<style type="text/css">.mec-wrap, .mec-wrap div:not([class^="elementor-"]), .lity-container, .mec-wrap h1, .mec-wrap h2, .mec-wrap h3, .mec-wrap h4, .mec-wrap h5, .mec-wrap h6, .entry-content .mec-wrap h1, .entry-content .mec-wrap h2, .entry-content .mec-wrap h3, .entry-content .mec-wrap h4, .entry-content .mec-wrap h5, .entry-content .mec-wrap h6, .mec-wrap .mec-totalcal-box input[type="submit"], .mec-wrap .mec-totalcal-box .mec-totalcal-view span, .mec-agenda-event-title a, .lity-content .mec-events-meta-group-booking select, .lity-content .mec-book-ticket-variation h5, .lity-content .mec-events-meta-group-booking input[type="number"], .lity-content .mec-events-meta-group-booking input[type="text"], .lity-content .mec-events-meta-group-booking input[type="email"],.mec-organizer-item a, .mec-single-event .mec-events-meta-group-booking ul.mec-book-tickets-container li.mec-book-ticket-container label { font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;}.mec-event-content p, .mec-search-bar-result .mec-event-detail{ font-family: Roboto, sans-serif;} .mec-wrap .mec-totalcal-box input, .mec-wrap .mec-totalcal-box select, .mec-checkboxes-search .mec-searchbar-category-wrap, .mec-wrap .mec-totalcal-box .mec-totalcal-view span { font-family: "Roboto", Helvetica, Arial, sans-serif; }.mec-event-grid-modern .event-grid-modern-head .mec-event-day, .mec-event-list-minimal .mec-time-details, .mec-event-list-minimal .mec-event-detail, .mec-event-list-modern .mec-event-detail, .mec-event-grid-minimal .mec-time-details, .mec-event-grid-minimal .mec-event-detail, .mec-event-grid-simple .mec-event-detail, .mec-event-cover-modern .mec-event-place, .mec-event-cover-clean .mec-event-place, .mec-calendar .mec-event-article .mec-localtime-details div, .mec-calendar .mec-event-article .mec-event-detail, .mec-calendar.mec-calendar-daily .mec-calendar-d-top h2, .mec-calendar.mec-calendar-daily .mec-calendar-d-top h3, .mec-toggle-item-col .mec-event-day, .mec-weather-summary-temp { font-family: "Roboto", sans-serif; } .mec-fes-form, .mec-fes-list, .mec-fes-form input, .mec-event-date .mec-tooltip .box, .mec-event-status .mec-tooltip .box, .ui-datepicker.ui-widget, .mec-fes-form button[type="submit"].mec-fes-sub-button, .mec-wrap .mec-timeline-events-container p, .mec-wrap .mec-timeline-events-container h4, .mec-wrap .mec-timeline-events-container div, .mec-wrap .mec-timeline-events-container a, .mec-wrap .mec-timeline-events-container span { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important; }.mec-event-grid-minimal .mec-modal-booking-button:hover, .mec-events-timeline-wrap .mec-organizer-item a, .mec-events-timeline-wrap .mec-organizer-item:after, .mec-events-timeline-wrap .mec-shortcode-organizers i, .mec-timeline-event .mec-modal-booking-button, .mec-wrap .mec-map-lightbox-wp.mec-event-list-classic .mec-event-date, .mec-timetable-t2-col .mec-modal-booking-button:hover, .mec-event-container-classic .mec-modal-booking-button:hover, .mec-calendar-events-side .mec-modal-booking-button:hover, .mec-event-grid-yearly  .mec-modal-booking-button, .mec-events-agenda .mec-modal-booking-button, .mec-event-grid-simple .mec-modal-booking-button, .mec-event-list-minimal  .mec-modal-booking-button:hover, .mec-timeline-month-divider,  .mec-wrap.colorskin-custom .mec-totalcal-box .mec-totalcal-view span:hover,.mec-wrap.colorskin-custom .mec-calendar.mec-event-calendar-classic .mec-selected-day,.mec-wrap.colorskin-custom .mec-color, .mec-wrap.colorskin-custom .mec-event-sharing-wrap .mec-event-sharing > li:hover a, .mec-wrap.colorskin-custom .mec-color-hover:hover, .mec-wrap.colorskin-custom .mec-color-before *:before ,.mec-wrap.colorskin-custom .mec-widget .mec-event-grid-classic.owl-carousel .owl-nav i,.mec-wrap.colorskin-custom .mec-event-list-classic a.magicmore:hover,.mec-wrap.colorskin-custom .mec-event-grid-simple:hover .mec-event-title,.mec-wrap.colorskin-custom .mec-single-event .mec-event-meta dd.mec-events-event-categories:before,.mec-wrap.colorskin-custom .mec-single-event-date:before,.mec-wrap.colorskin-custom .mec-single-event-time:before,.mec-wrap.colorskin-custom .mec-events-meta-group.mec-events-meta-group-venue:before,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-previous-month i,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-next-month:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-previous-month:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-next-month:hover,.mec-wrap.colorskin-custom .mec-calendar.mec-event-calendar-classic dt.mec-selected-day:hover,.mec-wrap.colorskin-custom .mec-infowindow-wp h5 a:hover, .colorskin-custom .mec-events-meta-group-countdown .mec-end-counts h3,.mec-calendar .mec-calendar-side .mec-next-month i,.mec-wrap .mec-totalcal-box i,.mec-calendar .mec-event-article .mec-event-title a:hover,.mec-attendees-list-details .mec-attendee-profile-link a:hover,.mec-wrap.colorskin-custom .mec-next-event-details li i, .mec-next-event-details i:before, .mec-marker-infowindow-wp .mec-marker-infowindow-count, .mec-next-event-details a,.mec-wrap.colorskin-custom .mec-events-masonry-cats a.mec-masonry-cat-selected,.lity .mec-color,.lity .mec-color-before :before,.lity .mec-color-hover:hover,.lity .mec-wrap .mec-color,.lity .mec-wrap .mec-color-before :before,.lity .mec-wrap .mec-color-hover:hover,.leaflet-popup-content .mec-color,.leaflet-popup-content .mec-color-before :before,.leaflet-popup-content .mec-color-hover:hover,.leaflet-popup-content .mec-wrap .mec-color,.leaflet-popup-content .mec-wrap .mec-color-before :before,.leaflet-popup-content .mec-wrap .mec-color-hover:hover, .mec-calendar.mec-calendar-daily .mec-calendar-d-table .mec-daily-view-day.mec-daily-view-day-active.mec-color, .mec-map-boxshow div .mec-map-view-event-detail.mec-event-detail i,.mec-map-boxshow div .mec-map-view-event-detail.mec-event-detail:hover,.mec-map-boxshow .mec-color,.mec-map-boxshow .mec-color-before :before,.mec-map-boxshow .mec-color-hover:hover,.mec-map-boxshow .mec-wrap .mec-color,.mec-map-boxshow .mec-wrap .mec-color-before :before,.mec-map-boxshow .mec-wrap .mec-color-hover:hover, .mec-choosen-time-message, .mec-booking-calendar-month-navigation .mec-next-month:hover, .mec-booking-calendar-month-navigation .mec-previous-month:hover, .mec-yearly-view-wrap .mec-agenda-event-title a:hover, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-next-year i, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-previous-year i, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-next-year:hover, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-previous-year:hover, .mec-av-spot .mec-av-spot-head .mec-av-spot-box span, .mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-previous-month:hover .mec-load-month-link, .mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-next-month:hover .mec-load-month-link, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-previous-year:hover .mec-load-month-link, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-next-year:hover .mec-load-month-link, .mec-skin-list-events-container .mec-data-fields-tooltip .mec-data-fields-tooltip-box ul .mec-event-data-field-item a, .mec-booking-shortcode .mec-event-ticket-name, .mec-booking-shortcode .mec-event-ticket-price, .mec-booking-shortcode .mec-ticket-variation-name, .mec-booking-shortcode .mec-ticket-variation-price, .mec-booking-shortcode label, .mec-booking-shortcode .nice-select, .mec-booking-shortcode input, .mec-booking-shortcode span.mec-book-price-detail-description, .mec-booking-shortcode .mec-ticket-name, .mec-booking-shortcode label.wn-checkbox-label, .mec-wrap.mec-cart table tr td a {color: #0093d0}.mec-skin-carousel-container .mec-event-footer-carousel-type3 .mec-modal-booking-button:hover, .mec-wrap.colorskin-custom .mec-event-sharing .mec-event-share:hover .event-sharing-icon,.mec-wrap.colorskin-custom .mec-event-grid-clean .mec-event-date,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing > li:hover a i,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing .mec-event-share:hover .mec-event-sharing-icon,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing li:hover a i,.mec-wrap.colorskin-custom .mec-calendar:not(.mec-event-calendar-classic) .mec-selected-day,.mec-wrap.colorskin-custom .mec-calendar .mec-selected-day:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-row  dt.mec-has-event:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-has-event:after, .mec-wrap.colorskin-custom .mec-bg-color, .mec-wrap.colorskin-custom .mec-bg-color-hover:hover, .colorskin-custom .mec-event-sharing-wrap:hover > li, .mec-wrap.colorskin-custom .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.mec-wrap .flip-clock-wrapper ul li a div div.inn,.mec-wrap .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.event-carousel-type1-head .mec-event-date-carousel,.mec-event-countdown-style3 .mec-event-date,#wrap .mec-wrap article.mec-event-countdown-style1,.mec-event-countdown-style1 .mec-event-countdown-part3 a.mec-event-button,.mec-wrap .mec-event-countdown-style2,.mec-map-get-direction-btn-cnt input[type="submit"],.mec-booking button,span.mec-marker-wrap,.mec-wrap.colorskin-custom .mec-timeline-events-container .mec-timeline-event-date:before, .mec-has-event-for-booking.mec-active .mec-calendar-novel-selected-day, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-ongoing-normal-label, .mec-calendar .mec-has-event:after, .mec-event-list-modern .mec-event-sharing li:hover .telegram{background-color: #0093d0;}.mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-calendar-day.mec-active .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active{ background-color: #0093d0;}.mec-skin-carousel-container .mec-event-footer-carousel-type3 .mec-modal-booking-button:hover, .mec-timeline-month-divider, .mec-wrap.colorskin-custom .mec-single-event .mec-speakers-details ul li .mec-speaker-avatar a:hover img,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing > li:hover a i,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing .mec-event-share:hover .mec-event-sharing-icon,.mec-wrap.colorskin-custom .mec-event-list-standard .mec-month-divider span:before,.mec-wrap.colorskin-custom .mec-single-event .mec-social-single:before,.mec-wrap.colorskin-custom .mec-single-event .mec-frontbox-title:before,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-events-side .mec-table-side-day, .mec-wrap.colorskin-custom .mec-border-color, .mec-wrap.colorskin-custom .mec-border-color-hover:hover, .colorskin-custom .mec-single-event .mec-frontbox-title:before, .colorskin-custom .mec-single-event .mec-wrap-checkout h4:before, .colorskin-custom .mec-single-event .mec-events-meta-group-booking form > h4:before, .mec-wrap.colorskin-custom .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.mec-wrap .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.event-carousel-type1-head .mec-event-date-carousel:after,.mec-wrap.colorskin-custom .mec-events-masonry-cats a.mec-masonry-cat-selected, .mec-marker-infowindow-wp .mec-marker-infowindow-count, .mec-wrap.colorskin-custom .mec-events-masonry-cats a:hover, .mec-has-event-for-booking .mec-calendar-novel-selected-day, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-virtual-event-history h3:before, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-calendar-day.mec-active .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active, .mec-rsvp-form-box form > h4:before, .mec-wrap .mec-box-title::before, .mec-box-title::before  {border-color: #0093d0;}.mec-wrap.colorskin-custom .mec-event-countdown-style3 .mec-event-date:after,.mec-wrap.colorskin-custom .mec-month-divider span:before, .mec-calendar.mec-event-container-simple dl dt.mec-selected-day, .mec-calendar.mec-event-container-simple dl dt.mec-selected-day:hover{border-bottom-color:#0093d0;}.mec-wrap.colorskin-custom  article.mec-event-countdown-style1 .mec-event-countdown-part2:after{border-color: transparent transparent transparent #0093d0;}.mec-wrap.colorskin-custom .mec-box-shadow-color { box-shadow: 0 4px 22px -7px #0093d0;}.mec-events-timeline-wrap .mec-shortcode-organizers, .mec-timeline-event .mec-modal-booking-button, .mec-events-timeline-wrap:before, .mec-wrap.colorskin-custom .mec-timeline-event-local-time, .mec-wrap.colorskin-custom .mec-timeline-event-time ,.mec-wrap.colorskin-custom .mec-timeline-event-location,.mec-choosen-time-message { background: rgba(0,147,208,.11);}.mec-wrap.colorskin-custom .mec-timeline-events-container .mec-timeline-event-date:after{ background: rgba(0,147,208,.3);}.mec-booking-shortcode button { box-shadow: 0 2px 2px rgba(0 147 208 / 27%);}.mec-booking-shortcode button.mec-book-form-back-button{ background-color: rgba(0 147 208 / 40%);}.mec-events-meta-group-booking-shortcode{ background: rgba(0,147,208,.14);}.mec-booking-shortcode label.wn-checkbox-label, .mec-booking-shortcode .nice-select,.mec-booking-shortcode input, .mec-booking-shortcode .mec-book-form-gateway-label input[type=radio]:before, .mec-booking-shortcode input[type=radio]:checked:before, .mec-booking-shortcode ul.mec-book-price-details li, .mec-booking-shortcode ul.mec-book-price-details{ border-color: rgba(0 147 208 / 27%) !important;}.mec-booking-shortcode input::-webkit-input-placeholder,.mec-booking-shortcode textarea::-webkit-input-placeholder{color: #0093d0}.mec-booking-shortcode input::-moz-placeholder,.mec-booking-shortcode textarea::-moz-placeholder{color: #0093d0}.mec-booking-shortcode input:-ms-input-placeholder,.mec-booking-shortcode textarea:-ms-input-placeholder {color: #0093d0}.mec-booking-shortcode input:-moz-placeholder,.mec-booking-shortcode textarea:-moz-placeholder {color: #0093d0}.mec-booking-shortcode label.wn-checkbox-label:after, .mec-booking-shortcode label.wn-checkbox-label:before, .mec-booking-shortcode input[type=radio]:checked:after{background-color: #0093d0}</style><!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{color:#ffffff}.site-breadcrumbs,.background-image-page-header .site-breadcrumbs{color:#ffffff}.site-breadcrumbs ul li .breadcrumb-sep,.site-breadcrumbs ol li .breadcrumb-sep{color:#ffffff}.site-breadcrumbs a,.background-image-page-header .site-breadcrumbs a{color:#ffffff}.site-breadcrumbs a .owp-icon use,.background-image-page-header .site-breadcrumbs a .owp-icon use{stroke:#ffffff}/* Header CSS */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}/* Footer Widgets CSS */#footer-widgets{background-color:#0bb6ef}/* Footer Bottom CSS */#footer-bottom{background-color:#013c89}
+</style></head>
+
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-23 wp-custom-logo wp-embed-responsive wp-theme-oceanwp oceanwp-theme dropdown-mobile default-breakpoint content-full-width content-max-width has-topbar page-header-disabled has-breadcrumbs elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-23" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	<div class="pjnt-border" style="font-family: Lato, sans-serif; background-color: #ff2828; border-color: #ff2828;"><div class="pjnt-label" style="color: #ffffff; font-size: 100%;">Latest News</div><div class="pjnt-box" style="background-color: #ffffff;"><div class="pjnt-content" data-gap="true" data-speed="80" style="font-size: 100%;"><span class="pjnt-item"><a target="_self" style="color: #cf2727;" href="https://www.manningsschoolja.org/notice-board">Manning&#039;s School Notice Board | Manning&#039;s School Notice Board | Manning&#039;s School Notice Board | Manning&#039;s School Notice Board | Manning&#039;s School Notice Board | Manning&#039;s School Notice Board Manning&#039;s School Notice Board | Manning&#039;s School Notice Board | Manning&#039;s School Notice Board | Manning&#039;s School Notice Board | Manning&#039;s School Notice Board | Manning&#039;s School Notice Board</a></span></div></div></div>
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+
+<div id="top-bar-wrap" class="clr">
+
+	<div id="top-bar" class="clr container has-no-content">
+
+		
+		<div id="top-bar-inner" class="clr">
+
+			
+
+		</div><!-- #top-bar-inner -->
+
+		
+	</div><!-- #top-bar -->
+
+</div><!-- #top-bar-wrap -->
+
+
+			
+<header id="site-header" class="custom-header clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+		
+
+<div id="site-header-inner" class="clr">
+
+			<div data-elementor-type="wp-post" data-elementor-id="107" class="elementor elementor-107" data-elementor-post-type="oceanwp_library">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-d3230a1 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3230a1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-e78a6e5" data-id="e78a6e5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-02bdb44 elementor-icon-list--layout-inline elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="02bdb44" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">(876) 955 - 2634</span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">manningsschool@yahoo.com</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-84a23ae elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile" data-id="84a23ae" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ecb8226 elementor-search-form--skin-minimal elementor-widget elementor-widget-search-form" data-id="ecb8226" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;minimal&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.manningsschoolja.org/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<search role="search">
+			<form class="elementor-search-form" action="https://www.manningsschoolja.org" method="get">
+												<div class="elementor-search-form__container">
+					<label class="elementor-screen-only" for="elementor-search-form-ecb8226">Search</label>
+
+											<div class="elementor-search-form__icon">
+							<i aria-hidden="true" class="fas fa-search"></i>							<span class="elementor-screen-only">Search</span>
+						</div>
+					
+					<input id="elementor-search-form-ecb8226" placeholder="Search..." class="elementor-search-form__input" type="search" name="s" value="">
+					
+					
+									</div>
+			</form>
+		</search>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-996bd75 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="996bd75" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1c37b6c" data-id="1c37b6c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8c7cc5f elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="8c7cc5f" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 30-04-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>						<a href="https://www.manningsschoolja.org">
+			<picture><source srcset="https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2022/10/cropped-Mannings-LogoBlue.png.webp 775w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2022/10/cropped-Mannings-LogoBlue-300x66.png.webp 300w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2022/10/cropped-Mannings-LogoBlue-768x168.png.webp 768w" sizes="(max-width: 775px) 100vw, 775px" type="image/webp"><img fetchpriority="high" width="775" height="170" src="https://www.manningsschoolja.org/wp-content/uploads/2022/10/cropped-Mannings-LogoBlue.png" class="attachment-full size-full wp-image-793 webpexpress-processed" alt="Logo" srcset="https://www.manningsschoolja.org/wp-content/uploads/2022/10/cropped-Mannings-LogoBlue.png 775w, https://www.manningsschoolja.org/wp-content/uploads/2022/10/cropped-Mannings-LogoBlue-300x66.png 300w, https://www.manningsschoolja.org/wp-content/uploads/2022/10/cropped-Mannings-LogoBlue-768x168.png 768w" sizes="(max-width: 775px) 100vw, 775px"></picture>				</a>
+									</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-ffd6c5a" data-id="ffd6c5a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-33ef308 elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="33ef308" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.manningsschoolja.org/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-text e--animation-none">
+				<ul id="menu-1-33ef308" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-23 current_page_item menu-item-119"><a href="https://www.manningsschoolja.org/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1119"><a href="#" class="elementor-item elementor-item-anchor">Manning&#8217;s</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1285"><a href="#" class="elementor-sub-item elementor-item-anchor">History</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://www.manningsschoolja.org/history/" class="elementor-sub-item">About Manning&#8217;s</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1283"><a href="https://www.manningsschoolja.org/headmasters/" class="elementor-sub-item">Headmasters</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://www.manningsschoolja.org/mission/" class="elementor-sub-item">Vision &#038; Mission</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="https://www.manningsschoolja.org/school-governance/" class="elementor-sub-item">School Governance</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-824"><a href="#" class="elementor-sub-item elementor-item-anchor">PTA</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-931"><a href="https://www.manningsschoolja.org/pta-executive/" class="elementor-sub-item">PTA Executive</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-890"><a href="#" class="elementor-sub-item elementor-item-anchor">Student Life</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1048"><a href="https://www.manningsschoolja.org/academics/" class="elementor-sub-item">Academics</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-891"><a href="#" class="elementor-sub-item elementor-item-anchor">Leadership</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1316"><a href="https://www.manningsschoolja.org/student-council/" class="elementor-sub-item">Student Council</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1258"><a href="https://www.manningsschoolja.org/prefects/" class="elementor-sub-item">Prefects</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-975"><a href="https://www.manningsschoolja.org/sports/" class="elementor-sub-item">Sports</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-894"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2022/05/EXTRA-CURRICULAR-PROGAMS-1-converted-2.pdf" class="elementor-sub-item">Clubs &#038; Societies</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-896"><a href="#" class="elementor-sub-item elementor-item-anchor">Student&#8217;s Handbook</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-897"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2023/01/Mannings-Student-Handbook-2022.pdf" class="elementor-sub-item">1st to 5th Form</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-898"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2023/01/Student_Handbook_2021_6TH-FORM.pdf" class="elementor-sub-item">6th Form</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1350"><a href="https://www.manningsschoolja.org/bwg_gallery/student-life/" class="elementor-sub-item">Photo Gallery</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="https://www.manningsschoolja.org/school-song/" class="elementor-sub-item">School Song</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://www.manningsschoolja.org/staff-directory/" class="elementor-sub-item">Staff Directory</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1795"><a href="https://www.manningsschoolja.org/category/news/" class="elementor-sub-item">News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://www.manningsschoolja.org/contact/" class="elementor-sub-item">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142"><a href="#" class="elementor-item elementor-item-anchor">Resources</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1856"><a href="https://dms.manningsschoolja.org/" class="elementor-sub-item">DMS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1088"><a href="https://www.manningsschoolja.org/library/" class="elementor-sub-item">Library</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087"><a href="https://www.manningsschoolja.org/victor-lowe-stem-center/" class="elementor-sub-item">Victor Lowe STEM Centre</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-811"><a href="#" class="elementor-sub-item elementor-item-anchor">Faculty</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://www.manningsschoolja.org/departments/" class="elementor-sub-item">Academic Departments</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.manningsschoolja.org/programmes/" class="elementor-sub-item">Programmes</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-909"><a href="#" class="elementor-sub-item elementor-item-anchor">Personal Development</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://www.manningsschoolja.org/academic-guidance/" class="elementor-sub-item">Guidance &#038; Counselling</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-959"><a href="#" class="elementor-sub-item elementor-item-anchor">Medical Bay</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1340"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2023/01/Mannings-Student-Handbook-2022.pdf" class="elementor-sub-item">School Policies</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-812"><a href="#" class="elementor-sub-item elementor-item-anchor">Forms</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://www.manningsschoolja.org/forms/" class="elementor-sub-item">Forms &#038; Booklists</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-813"><a href="#" class="elementor-sub-item elementor-item-anchor">Online</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-784"><a target="_blank" href="https://legacy.myschooljamaica.com" class="elementor-sub-item">My School Jamaica</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1120"><a href="#" class="elementor-item elementor-item-anchor">Alumni</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-357"><a target="_blank" href="https://www.facebook.com/MSPSA.Kingston/" class="elementor-sub-item">Kingston Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-358"><a target="_blank" href="https://www.facebook.com/MPSANY/" class="elementor-sub-item">New York Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-783"><a target="_blank" href="https://www.facebook.com/groups/105802032916890/" class="elementor-sub-item">Toronto Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-359"><a target="_blank" href="https://www.facebook.com/groups/2157074847894885" class="elementor-sub-item">Western Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-356"><a target="_blank" href="https://www.facebook.com/groups/501215103868071" class="elementor-sub-item">South Florida Chapter</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-805"><a href="#" class="elementor-item elementor-item-anchor">Events</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-807"><a href="#" class="elementor-sub-item elementor-item-anchor">Photos</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-819"><a href="https://www.manningsschoolja.org/bwg_gallery/community/" class="elementor-sub-item">Community</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-880"><a href="https://www.manningsschoolja.org/bwg_gallery/285th-anniversary/" class="elementor-sub-item">285th Anniversary</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1498"><a href="#" class="elementor-sub-item elementor-item-anchor">STEM</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1437"><a href="https://www.manningsschoolja.org/bwg_gallery/the-victor-lowe-stem-centre-opening/" class="elementor-sub-item">The Victor Lowe STEM Centre Opening</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1499"><a href="https://www.manningsschoolja.org/bwg_gallery/stem-olympiad/" class="elementor-sub-item">STEM Olympiad</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1789"><a href="https://www.manningsschoolja.org/bwg_gallery/spanish-debates/" class="elementor-sub-item">Spanish Debates</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806"><a href="https://www.manningsschoolja.org/events/" class="elementor-sub-item">Events Calendar</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-196"><a href="#" class="elementor-item elementor-item-anchor">Links</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-803"><a href="#" class="elementor-sub-item elementor-item-anchor">Education</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197"><a target="_blank" href="https://moey.gov.jm/" class="elementor-sub-item">Ministry of Education</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198"><a target="_blank" href="http://www.cxc.org/" class="elementor-sub-item">Caribbean Examinations Council</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360"><a target="_blank" href="https://www.mona.uwi.edu/" class="elementor-sub-item">University of The West Indies</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200"><a target="_blank" href="http://www.utechjamaica.edu.jm/" class="elementor-sub-item">University of Technology Jamaica</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497"><a target="_blank" href="https://www.ncu.edu.jm/" class="elementor-sub-item">Northern Caribbean University</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-199"><a target="_blank" href="http://www.cmi.edu.jm/" class="elementor-sub-item">Caribbean Maritime Institute</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201"><a target="_blank" href="http://www.heart-nta.org/" class="elementor-sub-item">Heart/NSTA Trust</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-804"><a href="#" class="elementor-sub-item elementor-item-anchor">Scholarships</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-789"><a target="_blank" href="https://www.jlwmsf.org/" class="elementor-sub-item">JLWM Scholarship</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-810"><a href="#" class="elementor-sub-item elementor-item-anchor">Welfare</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-809"><a target="_blank" href="https://www.mlss.gov.jm/departments/path" class="elementor-sub-item">PATH Program</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-820"><a href="#" class="elementor-sub-item elementor-item-anchor">Social Media</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-823"><a target="_blank" href="https://www.instagram.com/manningsofficial/" class="elementor-sub-item">Instagram</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-821"><a target="_blank" href="https://www.youtube.com/channel/UCNco-sonTrrjocX0ACGYEGQ" class="elementor-sub-item">Youtube Channel</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-33ef308" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-23 current_page_item menu-item-119"><a href="https://www.manningsschoolja.org/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1119"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Manning&#8217;s</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1285"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">History</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://www.manningsschoolja.org/history/" class="elementor-sub-item" tabindex="-1">About Manning&#8217;s</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1283"><a href="https://www.manningsschoolja.org/headmasters/" class="elementor-sub-item" tabindex="-1">Headmasters</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://www.manningsschoolja.org/mission/" class="elementor-sub-item" tabindex="-1">Vision &#038; Mission</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="https://www.manningsschoolja.org/school-governance/" class="elementor-sub-item" tabindex="-1">School Governance</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-824"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">PTA</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-931"><a href="https://www.manningsschoolja.org/pta-executive/" class="elementor-sub-item" tabindex="-1">PTA Executive</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-890"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Student Life</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1048"><a href="https://www.manningsschoolja.org/academics/" class="elementor-sub-item" tabindex="-1">Academics</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-891"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Leadership</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1316"><a href="https://www.manningsschoolja.org/student-council/" class="elementor-sub-item" tabindex="-1">Student Council</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1258"><a href="https://www.manningsschoolja.org/prefects/" class="elementor-sub-item" tabindex="-1">Prefects</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-975"><a href="https://www.manningsschoolja.org/sports/" class="elementor-sub-item" tabindex="-1">Sports</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-894"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2022/05/EXTRA-CURRICULAR-PROGAMS-1-converted-2.pdf" class="elementor-sub-item" tabindex="-1">Clubs &#038; Societies</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-896"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Student&#8217;s Handbook</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-897"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2023/01/Mannings-Student-Handbook-2022.pdf" class="elementor-sub-item" tabindex="-1">1st to 5th Form</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-898"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2023/01/Student_Handbook_2021_6TH-FORM.pdf" class="elementor-sub-item" tabindex="-1">6th Form</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1350"><a href="https://www.manningsschoolja.org/bwg_gallery/student-life/" class="elementor-sub-item" tabindex="-1">Photo Gallery</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="https://www.manningsschoolja.org/school-song/" class="elementor-sub-item" tabindex="-1">School Song</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://www.manningsschoolja.org/staff-directory/" class="elementor-sub-item" tabindex="-1">Staff Directory</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1795"><a href="https://www.manningsschoolja.org/category/news/" class="elementor-sub-item" tabindex="-1">News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://www.manningsschoolja.org/contact/" class="elementor-sub-item" tabindex="-1">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Resources</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1856"><a href="https://dms.manningsschoolja.org/" class="elementor-sub-item" tabindex="-1">DMS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1088"><a href="https://www.manningsschoolja.org/library/" class="elementor-sub-item" tabindex="-1">Library</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087"><a href="https://www.manningsschoolja.org/victor-lowe-stem-center/" class="elementor-sub-item" tabindex="-1">Victor Lowe STEM Centre</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-811"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Faculty</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://www.manningsschoolja.org/departments/" class="elementor-sub-item" tabindex="-1">Academic Departments</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.manningsschoolja.org/programmes/" class="elementor-sub-item" tabindex="-1">Programmes</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-909"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Personal Development</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://www.manningsschoolja.org/academic-guidance/" class="elementor-sub-item" tabindex="-1">Guidance &#038; Counselling</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-959"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Medical Bay</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1340"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2023/01/Mannings-Student-Handbook-2022.pdf" class="elementor-sub-item" tabindex="-1">School Policies</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-812"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Forms</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://www.manningsschoolja.org/forms/" class="elementor-sub-item" tabindex="-1">Forms &#038; Booklists</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-813"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Online</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-784"><a target="_blank" href="https://legacy.myschooljamaica.com" class="elementor-sub-item" tabindex="-1">My School Jamaica</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1120"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Alumni</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-357"><a target="_blank" href="https://www.facebook.com/MSPSA.Kingston/" class="elementor-sub-item" tabindex="-1">Kingston Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-358"><a target="_blank" href="https://www.facebook.com/MPSANY/" class="elementor-sub-item" tabindex="-1">New York Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-783"><a target="_blank" href="https://www.facebook.com/groups/105802032916890/" class="elementor-sub-item" tabindex="-1">Toronto Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-359"><a target="_blank" href="https://www.facebook.com/groups/2157074847894885" class="elementor-sub-item" tabindex="-1">Western Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-356"><a target="_blank" href="https://www.facebook.com/groups/501215103868071" class="elementor-sub-item" tabindex="-1">South Florida Chapter</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-805"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Events</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-807"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Photos</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-819"><a href="https://www.manningsschoolja.org/bwg_gallery/community/" class="elementor-sub-item" tabindex="-1">Community</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-880"><a href="https://www.manningsschoolja.org/bwg_gallery/285th-anniversary/" class="elementor-sub-item" tabindex="-1">285th Anniversary</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1498"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">STEM</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1437"><a href="https://www.manningsschoolja.org/bwg_gallery/the-victor-lowe-stem-centre-opening/" class="elementor-sub-item" tabindex="-1">The Victor Lowe STEM Centre Opening</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1499"><a href="https://www.manningsschoolja.org/bwg_gallery/stem-olympiad/" class="elementor-sub-item" tabindex="-1">STEM Olympiad</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1789"><a href="https://www.manningsschoolja.org/bwg_gallery/spanish-debates/" class="elementor-sub-item" tabindex="-1">Spanish Debates</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806"><a href="https://www.manningsschoolja.org/events/" class="elementor-sub-item" tabindex="-1">Events Calendar</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-196"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Links</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-803"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Education</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197"><a target="_blank" href="https://moey.gov.jm/" class="elementor-sub-item" tabindex="-1">Ministry of Education</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198"><a target="_blank" href="http://www.cxc.org/" class="elementor-sub-item" tabindex="-1">Caribbean Examinations Council</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360"><a target="_blank" href="https://www.mona.uwi.edu/" class="elementor-sub-item" tabindex="-1">University of The West Indies</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200"><a target="_blank" href="http://www.utechjamaica.edu.jm/" class="elementor-sub-item" tabindex="-1">University of Technology Jamaica</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497"><a target="_blank" href="https://www.ncu.edu.jm/" class="elementor-sub-item" tabindex="-1">Northern Caribbean University</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-199"><a target="_blank" href="http://www.cmi.edu.jm/" class="elementor-sub-item" tabindex="-1">Caribbean Maritime Institute</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201"><a target="_blank" href="http://www.heart-nta.org/" class="elementor-sub-item" tabindex="-1">Heart/NSTA Trust</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-804"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Scholarships</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-789"><a target="_blank" href="https://www.jlwmsf.org/" class="elementor-sub-item" tabindex="-1">JLWM Scholarship</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-810"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Welfare</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-809"><a target="_blank" href="https://www.mlss.gov.jm/departments/path" class="elementor-sub-item" tabindex="-1">PATH Program</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-820"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Social Media</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-823"><a target="_blank" href="https://www.instagram.com/manningsofficial/" class="elementor-sub-item" tabindex="-1">Instagram</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-821"><a target="_blank" href="https://www.youtube.com/channel/UCNco-sonTrrjocX0ACGYEGQ" class="elementor-sub-item" tabindex="-1">Youtube Channel</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+</div>
+
+
+<div id="mobile-dropdown" class="clr" >
+
+	<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+		<ul id="menu-main" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-23 current_page_item menu-item-119"><a href="https://www.manningsschoolja.org/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1119"><a href="#">Manning&#8217;s</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1285"><a href="#">History</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://www.manningsschoolja.org/history/">About Manning&#8217;s</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1283"><a href="https://www.manningsschoolja.org/headmasters/">Headmasters</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://www.manningsschoolja.org/mission/">Vision &#038; Mission</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="https://www.manningsschoolja.org/school-governance/">School Governance</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-824"><a href="#">PTA</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-931"><a href="https://www.manningsschoolja.org/pta-executive/">PTA Executive</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-890"><a href="#">Student Life</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1048"><a href="https://www.manningsschoolja.org/academics/">Academics</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-891"><a href="#">Leadership</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1316"><a href="https://www.manningsschoolja.org/student-council/">Student Council</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1258"><a href="https://www.manningsschoolja.org/prefects/">Prefects</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-975"><a href="https://www.manningsschoolja.org/sports/">Sports</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-894"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2022/05/EXTRA-CURRICULAR-PROGAMS-1-converted-2.pdf">Clubs &#038; Societies</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-896"><a href="#">Student&#8217;s Handbook</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-897"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2023/01/Mannings-Student-Handbook-2022.pdf">1st to 5th Form</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-898"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2023/01/Student_Handbook_2021_6TH-FORM.pdf">6th Form</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1350"><a href="https://www.manningsschoolja.org/bwg_gallery/student-life/">Photo Gallery</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="https://www.manningsschoolja.org/school-song/">School Song</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://www.manningsschoolja.org/staff-directory/">Staff Directory</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1795"><a href="https://www.manningsschoolja.org/category/news/">News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://www.manningsschoolja.org/contact/">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1856"><a href="https://dms.manningsschoolja.org/">DMS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1088"><a href="https://www.manningsschoolja.org/library/">Library</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087"><a href="https://www.manningsschoolja.org/victor-lowe-stem-center/">Victor Lowe STEM Centre</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-811"><a href="#">Faculty</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://www.manningsschoolja.org/departments/">Academic Departments</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.manningsschoolja.org/programmes/">Programmes</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-909"><a href="#">Personal Development</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://www.manningsschoolja.org/academic-guidance/">Guidance &#038; Counselling</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-959"><a href="#">Medical Bay</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1340"><a target="_blank" href="https://www.manningsschoolja.org/wp-content/uploads/2023/01/Mannings-Student-Handbook-2022.pdf">School Policies</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-812"><a href="#">Forms</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://www.manningsschoolja.org/forms/">Forms &#038; Booklists</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-813"><a href="#">Online</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-784"><a target="_blank" href="https://legacy.myschooljamaica.com">My School Jamaica</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1120"><a href="#">Alumni</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-357"><a target="_blank" href="https://www.facebook.com/MSPSA.Kingston/">Kingston Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-358"><a target="_blank" href="https://www.facebook.com/MPSANY/">New York Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-783"><a target="_blank" href="https://www.facebook.com/groups/105802032916890/">Toronto Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-359"><a target="_blank" href="https://www.facebook.com/groups/2157074847894885">Western Chapter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-356"><a target="_blank" href="https://www.facebook.com/groups/501215103868071">South Florida Chapter</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-805"><a href="#">Events</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-807"><a href="#">Photos</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-819"><a href="https://www.manningsschoolja.org/bwg_gallery/community/">Community</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-880"><a href="https://www.manningsschoolja.org/bwg_gallery/285th-anniversary/">285th Anniversary</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1498"><a href="#">STEM</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1437"><a href="https://www.manningsschoolja.org/bwg_gallery/the-victor-lowe-stem-centre-opening/">The Victor Lowe STEM Centre Opening</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1499"><a href="https://www.manningsschoolja.org/bwg_gallery/stem-olympiad/">STEM Olympiad</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-bwg_gallery menu-item-1789"><a href="https://www.manningsschoolja.org/bwg_gallery/spanish-debates/">Spanish Debates</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806"><a href="https://www.manningsschoolja.org/events/">Events Calendar</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-196"><a href="#">Links</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-803"><a href="#">Education</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197"><a target="_blank" href="https://moey.gov.jm/">Ministry of Education</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198"><a target="_blank" href="http://www.cxc.org/">Caribbean Examinations Council</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360"><a target="_blank" href="https://www.mona.uwi.edu/">University of The West Indies</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200"><a target="_blank" href="http://www.utechjamaica.edu.jm/">University of Technology Jamaica</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497"><a target="_blank" href="https://www.ncu.edu.jm/">Northern Caribbean University</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-199"><a target="_blank" href="http://www.cmi.edu.jm/">Caribbean Maritime Institute</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201"><a target="_blank" href="http://www.heart-nta.org/">Heart/NSTA Trust</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-804"><a href="#">Scholarships</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-789"><a target="_blank" href="https://www.jlwmsf.org/">JLWM Scholarship</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-810"><a href="#">Welfare</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-809"><a target="_blank" href="https://www.mlss.gov.jm/departments/path">PATH Program</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-820"><a href="#">Social Media</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-823"><a target="_blank" href="https://www.instagram.com/manningsofficial/">Instagram</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-821"><a target="_blank" href="https://www.youtube.com/channel/UCNco-sonTrrjocX0ACGYEGQ">Youtube Channel</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="search-toggle-li" ><a href="https://www.manningsschoolja.org/#" class="site-search-toggle search-dropdown-toggle"><span class="screen-reader-text">Toggle website search</span><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul>
+<div id="mobile-menu-search" class="clr">
+	<form aria-label="Search this website" method="get" action="https://www.manningsschoolja.org/" class="mobile-searchform">
+		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-1" type="search" name="s" autocomplete="off" placeholder="Search" />
+		<button aria-label="Submit search" type="submit" class="searchform-submit">
+			<i class=" icon-magnifier" aria-hidden="true" role="img"></i>		</button>
+					</form>
+</div><!-- .mobile-menu-search -->
+
+	</nav>
+
+</div>
+
+
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+						<div data-elementor-type="wp-page" data-elementor-id="23" class="elementor elementor-23" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-6c8d8b9 elementor-section-content-middle elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="6c8d8b9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:1862,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/0e2ca626-7969-413d-8b06-a202fef56778.jpeg&quot;},{&quot;id&quot;:1863,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/2b594ca8-75bc-40e2-8f1e-ab954ce9cc0a.jpeg&quot;},{&quot;id&quot;:1864,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/7f69d5a6-c584-4ee5-b960-89d8214f029a.jpeg&quot;},{&quot;id&quot;:1865,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/8af56da2-a9c6-4d91-8bcf-a5e5c08e6408.jpeg&quot;},{&quot;id&quot;:1866,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/62271860-80ba-4964-a5cf-2213358987ac.jpeg&quot;},{&quot;id&quot;:1867,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/a09ebba3-d899-4a9c-b8b5-6a710cb291c0.jpeg&quot;},{&quot;id&quot;:1868,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/ab635101-c79c-4f98-9e0a-3ff4d26d5a10.jpeg&quot;},{&quot;id&quot;:1869,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/ac8c6fbe-bff4-4b4d-b838-68ccf37fb9b5.jpeg&quot;},{&quot;id&quot;:1870,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/bceb04af-55cb-4606-9c1a-385a8350c5ba.jpeg&quot;},{&quot;id&quot;:1871,&quot;url&quot;:&quot;https:\/\/www.manningsschoolja.org\/wp-content\/uploads\/2025\/03\/f4984684-a3f6-40d5-8c45-3ccf922a70b8.jpeg&quot;}],&quot;background_slideshow_slide_transition&quot;:&quot;slide_left&quot;,&quot;background_slideshow_transition_duration&quot;:2000,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0a66d1" data-id="f0a66d1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3d3c14a elementor-widget elementor-widget-image" data-id="3d3c14a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://www.manningsschoolja.org/donations/">
+							<picture><source srcset="https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/11/donate-removebg-preview.png.webp 504w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/11/donate-removebg-preview-300x155.png.webp 300w" sizes="(max-width: 504px) 100vw, 504px" type="image/webp"><img decoding="async" width="504" height="260" src="https://www.manningsschoolja.org/wp-content/uploads/2025/11/donate-removebg-preview.png" class="attachment-large size-large wp-image-1875 webpexpress-processed" alt="" srcset="https://www.manningsschoolja.org/wp-content/uploads/2025/11/donate-removebg-preview.png 504w, https://www.manningsschoolja.org/wp-content/uploads/2025/11/donate-removebg-preview-300x155.png 300w" sizes="(max-width: 504px) 100vw, 504px"></picture>								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b8d7f04 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b8d7f04" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-68fcde4" data-id="68fcde4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cc5a731 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="cc5a731" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="fas fa-history"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							<i>Founded 1738</i>						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2a34280" data-id="2a34280" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-76ab818 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="76ab818" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="fas fa-map-marked-alt"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							<i>Beckford St, Savanna-La-Mar Westmoreland, Jamaica</i>						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bcfd0c5" data-id="bcfd0c5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-adac9b4 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="adac9b4" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="far fa-clock"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							<i><b>Mondays - Fridays</b> <br>7:55am - 3:00pm</i>						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9693a80" data-id="9693a80" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-220dea8 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="220dea8" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="far fa-address-book"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							<i>(876) 955-2634<br>manningsschool@yahoo.com</i>						</span>
+					</h3>
+				
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-aaec72f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aaec72f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a7340a7" data-id="a7340a7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f296234 elementor-widget elementor-widget-heading" data-id="f296234" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 30-04-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default"><br>Principal's Welcome Message</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-179b52a elementor-widget elementor-widget-text-editor" data-id="179b52a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 30-04-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span style="font-size: 19.5px; text-align: left; color: var( --e-global-color-text );">Manning’s School has secured a significant place in Jamaica’s education system. We are proud of our record of excellence in the holistic development of students. Our teachers and support staff have been consistent in ensuring that this institution continues to remain the shining beacon in the West.&nbsp;</span></p><p><a href="https://www.manningsschoolja.org/principals-message/" style="font-size: 19.5px; text-align: left; letter-spacing: -0.3px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);">Read More&#8230;</a><br></p>
+<p><span style="font-size: 19.5px; text-align: left; color: var( --e-global-color-text );">Mr. Steve Gordon</span><br>
+<span style="font-size: 19.5px; text-align: left; color: var( --e-global-color-text );">Principal</span></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b73ee57" data-id="b73ee57" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d6123bb elementor-widget elementor-widget-heading" data-id="d6123bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default"><br/>Calendar of Events</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-643c3c2 elementor-widget elementor-widget-MEC" data-id="643c3c2" data-element_type="widget" data-widget_type="MEC.default">
+				<div class="elementor-widget-container">
+			<div id="mec_skin_471" class="mec-wrap colorskin-custom  ">
+    
+    <div id="mec_search_form_471" class="mec-search-form mec-totalcal-box"><div class="mec-dropdown-wrap" ><div class="mec-dropdown-search"><i class="mec-sl-folder"></i><select  name=' ' id='mec_sf_category_471' class='postform'>
+	<option value='' selected='selected'>Category</option>
+	<option class="level-0" value="9">Upcoming Events</option>
+</select>
+</div></div><div class="mec-text-input-search"><i class="mec-sl-magnifier"></i>
+                    <input type="search" value="" id="mec_sf_s_471" placeholder="" />
+                </div></div>    
+    <div class="mec-calendar mec-calendar-daily mec-calendar-weekly">
+                <div class="mec-skin-weekly-view-month-navigator-container mec-calendar-a-month mec-clear">
+            <div class="mec-month-navigator" id="mec_month_navigator471_202608"><div class="mec-previous-month mec-load-month mec-color" data-mec-year="2026" data-mec-month="07"><a href="#" class="mec-load-month-link"><i class="mec-sl-angle-left"></i></a></div><h4 class="mec-month-label">2026 August</h4><div class="mec-next-month mec-load-month mec-color" data-mec-year="2026" data-mec-month="09"><a href="#" class="mec-load-month-link"><i class="mec-sl-angle-right"></i></a></div></div>
+        </div>
+        
+        <div class="mec-skin-weekly-view-events-container" id="mec_skin_events_471">
+            <div class="mec-month-container" id="mec_weekly_view_month_471_202608">
+                <div class="mec-calendar-d-top"><div class="mec-previous-month mec-load-week mec-color" href="#"><i class="mec-sl-angle-left"></i></div><div class="mec-next-month mec-load-week mec-color" href="#"><i class="mec-sl-angle-right"></i></div><h3 class="mec-current-week">Week <span>1</span></h3></div><div class="mec-weeks-container mec-calendar-d-table"><dl class="mec-weekly-view-week" id="mec_weekly_view_week_471_2026081" data-week-id="2026081" data-week-number="1" data-max-weeks="6"><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sun</span> <span class="mec-weekly-view-monthday">26</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Mon</span> <span class="mec-weekly-view-monthday">27</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Tue</span> <span class="mec-weekly-view-monthday">28</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Wed</span> <span class="mec-weekly-view-monthday">29</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Thu</span> <span class="mec-weekly-view-monthday">30</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Fri</span> <span class="mec-weekly-view-monthday">31</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sat</span> <span class="mec-weekly-view-monthday">1</span> </dt></dl><dl class="mec-weekly-view-week" id="mec_weekly_view_week_471_2026082" data-week-id="2026082" data-week-number="2" data-max-weeks="6"><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sun</span> <span class="mec-weekly-view-monthday">2</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Mon</span> <span class="mec-weekly-view-monthday">3</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Tue</span> <span class="mec-weekly-view-monthday">4</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Wed</span> <span class="mec-weekly-view-monthday">5</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Thu</span> <span class="mec-weekly-view-monthday">6</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Fri</span> <span class="mec-weekly-view-monthday">7</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sat</span> <span class="mec-weekly-view-monthday">8</span> </dt></dl><dl class="mec-weekly-view-week" id="mec_weekly_view_week_471_2026083" data-week-id="2026083" data-week-number="3" data-max-weeks="6"><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sun</span> <span class="mec-weekly-view-monthday">9</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Mon</span> <span class="mec-weekly-view-monthday">10</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Tue</span> <span class="mec-weekly-view-monthday">11</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Wed</span> <span class="mec-weekly-view-monthday">12</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Thu</span> <span class="mec-weekly-view-monthday">13</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Fri</span> <span class="mec-weekly-view-monthday">14</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sat</span> <span class="mec-weekly-view-monthday">15</span> </dt></dl><dl class="mec-weekly-view-week" id="mec_weekly_view_week_471_2026084" data-week-id="2026084" data-week-number="4" data-max-weeks="6"><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sun</span> <span class="mec-weekly-view-monthday">16</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Mon</span> <span class="mec-weekly-view-monthday">17</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Tue</span> <span class="mec-weekly-view-monthday">18</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Wed</span> <span class="mec-weekly-view-monthday">19</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Thu</span> <span class="mec-weekly-view-monthday">20</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Fri</span> <span class="mec-weekly-view-monthday">21</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sat</span> <span class="mec-weekly-view-monthday">22</span> </dt></dl><dl class="mec-weekly-view-week" id="mec_weekly_view_week_471_2026085" data-week-id="2026085" data-week-number="5" data-max-weeks="6"><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sun</span> <span class="mec-weekly-view-monthday">23</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Mon</span> <span class="mec-weekly-view-monthday">24</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Tue</span> <span class="mec-weekly-view-monthday">25</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Wed</span> <span class="mec-weekly-view-monthday">26</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Thu</span> <span class="mec-weekly-view-monthday">27</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Fri</span> <span class="mec-weekly-view-monthday">28</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sat</span> <span class="mec-weekly-view-monthday">29</span> </dt></dl><dl class="mec-weekly-view-week" id="mec_weekly_view_week_471_2026086" data-week-id="2026086" data-week-number="6" data-max-weeks="6"><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sun</span> <span class="mec-weekly-view-monthday">30</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Mon</span> <span class="mec-weekly-view-monthday">31</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Tue</span> <span class="mec-weekly-view-monthday">1</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Wed</span> <span class="mec-weekly-view-monthday">2</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Thu</span> <span class="mec-weekly-view-monthday">3</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Fri</span> <span class="mec-weekly-view-monthday">4</span> </dt><dt data-events-count="0" class="mec-weekly-disabled mec-table-nullday"><span class="mec-weekly-view-weekday">Sat</span> <span class="mec-weekly-view-monthday">5</span> </dt></dl></div>
+<div class="mec-week-events-container"><ul class="mec-weekly-view-dates-events">
+                <li class="mec-weekly-view-date-events mec-util-hidden mec-calendar-day-events mec-clear mec-weekly-view-week-471-2026081" id="mec_weekly_view_date_events471_20260801" data-week-number="1">
+        <article class="mec-event-article"><h4 class="mec-event-title">No Events</h4><div class="mec-event-detail"></div></article>
+    </li>
+                    <li class="mec-weekly-view-date-events mec-util-hidden mec-calendar-day-events mec-clear mec-weekly-view-week-471-2026082" id="mec_weekly_view_date_events471_20260802" data-week-number="2">
+        <article class="mec-event-article"><h4 class="mec-event-title">No Events</h4><div class="mec-event-detail"></div></article>
+    </li>
+                                                                                            <li class="mec-weekly-view-date-events mec-util-hidden mec-calendar-day-events mec-clear mec-weekly-view-week-471-2026083" id="mec_weekly_view_date_events471_20260809" data-week-number="3">
+        <article class="mec-event-article"><h4 class="mec-event-title">No Events</h4><div class="mec-event-detail"></div></article>
+    </li>
+                                                                                            <li class="mec-weekly-view-date-events mec-util-hidden mec-calendar-day-events mec-clear mec-weekly-view-week-471-2026084" id="mec_weekly_view_date_events471_20260816" data-week-number="4">
+        <article class="mec-event-article"><h4 class="mec-event-title">No Events</h4><div class="mec-event-detail"></div></article>
+    </li>
+                                                                                            <li class="mec-weekly-view-date-events mec-util-hidden mec-calendar-day-events mec-clear mec-weekly-view-week-471-2026085" id="mec_weekly_view_date_events471_20260823" data-week-number="5">
+        <article class="mec-event-article"><h4 class="mec-event-title">No Events</h4><div class="mec-event-detail"></div></article>
+    </li>
+                                                                                            <li class="mec-weekly-view-date-events mec-util-hidden mec-calendar-day-events mec-clear mec-weekly-view-week-471-2026086" id="mec_weekly_view_date_events471_20260830" data-week-number="6">
+        <article class="mec-event-article"><h4 class="mec-event-title">No Events</h4><div class="mec-event-detail"></div></article>
+    </li>
+                    </ul>
+<div class="mec-event-footer"></div></div>            </div>
+        </div>
+    </div>
+    
+</div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d992989 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d992989" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e612dd" data-id="4e612dd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-414b13a elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="414b13a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInLeft&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 30-04-2024 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,21c3.3,0,8.3-0.9,15.7-7.1c6.6-5.4,4.4-9.3,2.4-10.3c-3.4-1.8-7.7,1.3-7.3,8.8C11.2,20,17.1,21,24,21&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-61ce1a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="61ce1a7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b6f7b5f" data-id="b6f7b5f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-da94f12 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="da94f12" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="fas fa-warehouse"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							A Great Facility						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						We host a well maintained facility, from our clean environment to our freshly painted compound. We set the standard.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-08f0d0d elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="08f0d0d" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="fas fa-paint-brush"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Art &amp; Technical Labs						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Kai Greene once said, "In the mind of every artist there is a masterpiece." Our facilities allow students to create their masterpiece.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-fdc8465" data-id="fdc8465" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-09e49a8 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="09e49a8" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="fas fa-graduation-cap"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Qualified Teachers						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						We have some of the best teachers in the Caribbean! Don't believe us? Just ask our students.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-eab39d0 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="eab39d0" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="fas fa-music"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Music Room						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Our music room provides an opportunity to inspire our students with a visually stimulating learning environment.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c475395" data-id="c475395" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-134b5b9 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="134b5b9" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="fas fa-vial"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Science Labs						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						We have  Chemistry, Physics and Biology labs which give you the opportunity to explore your passion.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-25aa29e elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="25aa29e" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="fas fa-basketball-ball"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Sports and Clubs						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Manning’s School qualified for the DaCosta Cup Championship for the first time in the school’s history in August 2022.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ea2b121 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ea2b121" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5d365a" data-id="e5d365a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ffabe1e elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="ffabe1e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInRight&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,21c3.3,0,8.3-0.9,15.7-7.1c6.6-5.4,4.4-9.3,2.4-10.3c-3.4-1.8-7.7,1.3-7.3,8.8C11.2,20,17.1,21,24,21&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-012c831 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="012c831" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b56a5d" data-id="3b56a5d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-708c1cb elementor-widget elementor-widget-heading" data-id="708c1cb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default"><br>WHAT PARENTS ARE SAYING
+</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1ad34b2 elementor-testimonial--skin-default elementor-testimonial--layout-image_inline elementor-testimonial--align-center elementor-pagination-type-bullets elementor-widget elementor-widget-testimonial-carousel" data-id="1ad34b2" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;3&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="testimonial-carousel.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.manningsschoolja.org/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						“My daughter seems to have adjusted quite nicely to the school, and has shared numerous stories about how happy she is with her teachers and fellow students..”					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						“I am very impressed with the principal. He is very approachable, and seems to be at every event the school has…which tells me he is very involved in the students' success and is passionate about his job..”					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						“The staff is knowledgeable, kind and eager to see my girls succeed. Many times they’ve performed above and beyond to encourage success.”					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+									</div>
+															<div class="swiper-pagination"></div>
+																	</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ab68968 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab68968" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d25015f" data-id="d25015f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-381fa48 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="381fa48" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInLeft&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,21c3.3,0,8.3-0.9,15.7-7.1c6.6-5.4,4.4-9.3,2.4-10.3c-3.4-1.8-7.7,1.3-7.3,8.8C11.2,20,17.1,21,24,21&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5081e11 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5081e11" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fec74aa" data-id="fec74aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7ce5693 elementor-widget elementor-widget-heading" data-id="7ce5693" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Manning's In The News</h1>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a20b6a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a20b6a8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a554e6b" data-id="a554e6b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e33a4dc elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="e33a4dc" data-element_type="widget" data-settings="{&quot;cards_columns&quot;:&quot;3&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;cards_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;cards_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.manningsschoolja.org/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css">		<div class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1847 post type-post status-publish format-standard has-post-thumbnail hentry category-news entry has-media">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://www.manningsschoolja.org/all-girls-showdown-in-junior-minister-of-tourism-competition/" tabindex="-1" ><div class="elementor-post__thumbnail"><img decoding="async" width="300" height="164" src="https://www.manningsschoolja.org/wp-content/uploads/2025/07/winners-8888-300x164.webp" class="attachment-medium size-medium wp-image-1848" alt="" srcset="https://www.manningsschoolja.org/wp-content/uploads/2025/07/winners-8888-300x164.webp 300w, https://www.manningsschoolja.org/wp-content/uploads/2025/07/winners-8888-1024x561.webp 1024w, https://www.manningsschoolja.org/wp-content/uploads/2025/07/winners-8888-768x421.webp 768w, https://www.manningsschoolja.org/wp-content/uploads/2025/07/winners-8888.webp 1040w" sizes="(max-width: 300px) 100vw, 300px" /></div></a>
+				<div class="elementor-post__badge">News</div>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.manningsschoolja.org/all-girls-showdown-in-junior-minister-of-tourism-competition/" >
+				All-girls showdown in Junior Minister of Tourism Competition			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Jullisa Dujon of The Manning’s School has secured her spot in the second and final round of the Junior Minister of Tourism competition, after topping a field of 11 contestants recently at the Sandals Ochi Beach Resort, St Ann.</p>
+		</div>
+					<div class="elementor-post__read-more-wrapper">
+		
+		<a class="elementor-post__read-more" href="https://www.manningsschoolja.org/all-girls-showdown-in-junior-minister-of-tourism-competition/" aria-label="Read more about All-girls showdown in Junior Minister of Tourism Competition" tabindex="-1" >
+			Read More »		</a>
+
+					</div>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-1815 post type-post status-publish format-standard has-post-thumbnail hentry category-news entry has-media">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://www.manningsschoolja.org/mannings-students-heading-to-jamcoders-camp/" tabindex="-1" ><div class="elementor-post__thumbnail"><picture><source srcset="https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-300x169.jpeg.webp 300w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-1024x576.jpeg.webp 1024w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-768x432.jpeg.webp 768w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-1536x864.jpeg.webp 1536w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-2048x1152.jpeg.webp 2048w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-800x450.jpeg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" type="image/webp"><img loading="lazy" decoding="async" width="300" height="169" src="https://www.manningsschoolja.org/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-300x169.jpeg" class="attachment-medium size-medium wp-image-1816 webpexpress-processed" alt="" srcset="https://www.manningsschoolja.org/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-300x169.jpeg 300w, https://www.manningsschoolja.org/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-1024x576.jpeg 1024w, https://www.manningsschoolja.org/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-768x432.jpeg 768w, https://www.manningsschoolja.org/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-1536x864.jpeg 1536w, https://www.manningsschoolja.org/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-2048x1152.jpeg 2048w, https://www.manningsschoolja.org/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-02-at-10.12.43-PM-1-800x450.jpeg 800w" sizes="(max-width: 300px) 100vw, 300px"></picture></div></a>
+				<div class="elementor-post__badge">News</div>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.manningsschoolja.org/mannings-students-heading-to-jamcoders-camp/" >
+				Manning&#8217;s Students Heading To JamCoders Camp			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Two students (Yemesi Hill and Neveno Lewis) received monetary contributions from Mr. Victor Lowe to assist them with preparations for the JamCoders camp this summer.</p>
+		</div>
+					<div class="elementor-post__read-more-wrapper">
+		
+		<a class="elementor-post__read-more" href="https://www.manningsschoolja.org/mannings-students-heading-to-jamcoders-camp/" aria-label="Read more about Manning&#8217;s Students Heading To JamCoders Camp" tabindex="-1" >
+			Read More »		</a>
+
+					</div>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-1766 post type-post status-publish format-standard has-post-thumbnail hentry category-news entry has-media">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://www.manningsschoolja.org/miss-westmoreland-4h-club/" tabindex="-1" ><div class="elementor-post__thumbnail"><picture><source srcset="https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/02/02923627-202e-462b-ad27-dd4928cd708a-e1742516026703-300x283.jpg.webp 300w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/02/02923627-202e-462b-ad27-dd4928cd708a-e1742516026703-1024x965.jpg.webp 1024w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/02/02923627-202e-462b-ad27-dd4928cd708a-e1742516026703-768x723.jpg.webp 768w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2025/02/02923627-202e-462b-ad27-dd4928cd708a-e1742516026703.jpg.webp 1104w" sizes="(max-width: 300px) 100vw, 300px" type="image/webp"><img loading="lazy" decoding="async" width="300" height="283" src="https://www.manningsschoolja.org/wp-content/uploads/2025/02/02923627-202e-462b-ad27-dd4928cd708a-e1742516026703-300x283.jpg" class="attachment-medium size-medium wp-image-1768 webpexpress-processed" alt="" srcset="https://www.manningsschoolja.org/wp-content/uploads/2025/02/02923627-202e-462b-ad27-dd4928cd708a-e1742516026703-300x283.jpg 300w, https://www.manningsschoolja.org/wp-content/uploads/2025/02/02923627-202e-462b-ad27-dd4928cd708a-e1742516026703-1024x965.jpg 1024w, https://www.manningsschoolja.org/wp-content/uploads/2025/02/02923627-202e-462b-ad27-dd4928cd708a-e1742516026703-768x723.jpg 768w, https://www.manningsschoolja.org/wp-content/uploads/2025/02/02923627-202e-462b-ad27-dd4928cd708a-e1742516026703.jpg 1104w" sizes="(max-width: 300px) 100vw, 300px"></picture></div></a>
+				<div class="elementor-post__badge">News</div>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.manningsschoolja.org/miss-westmoreland-4h-club/" >
+				Miss Westmoreland 4H Club			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Congratulations to the winner of the 2025 Miss Westmoreland 4H, Amanishka Young. The completion was held at Sean Lavery Faith Hall on January 30th. Also</p>
+		</div>
+					<div class="elementor-post__read-more-wrapper">
+		
+		<a class="elementor-post__read-more" href="https://www.manningsschoolja.org/miss-westmoreland-4h-club/" aria-label="Read more about Miss Westmoreland 4H Club" tabindex="-1" >
+			Read More »		</a>
+
+					</div>
+				</div>
+					</div>
+		</article>
+				</div>
+		
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2bf963f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bf963f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cec07d1" data-id="cec07d1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c09377 elementor-widget elementor-widget-counter" data-id="5c09377" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 30-04-2024 */
+.elementor-counter{display:flex;justify-content:center;align-items:stretch;flex-direction:column-reverse}.elementor-counter .elementor-counter-number{flex-grow:var(--counter-number-grow,0)}.elementor-counter .elementor-counter-number-wrapper{flex:1;display:flex;font-size:69px;font-weight:600;line-height:1;text-align:center}.elementor-counter .elementor-counter-number-prefix{text-align:end;flex-grow:var(--counter-prefix-grow,1);white-space:pre-wrap}.elementor-counter .elementor-counter-number-suffix{text-align:start;flex-grow:var(--counter-suffix-grow,1);white-space:pre-wrap}.elementor-counter .elementor-counter-title{flex:1;display:flex;justify-content:center;align-items:center;margin:0;padding:0;font-size:19px;font-weight:400;line-height:2.5}</style>		<div class="elementor-counter">
+			<div class="elementor-counter-title">STUDENTS</div>			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="1700" data-from-value="1000" data-delimiter=",">1000</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-59ee8e9 elementor-widget elementor-widget-counter" data-id="59ee8e9" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-title">EXTRA CURRICULAR PROGRAMS​</div>			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="21" data-from-value="10" data-delimiter=",">10</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c964fa2" data-id="c964fa2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7667d2c elementor-widget elementor-widget-counter" data-id="7667d2c" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-title">Teachers</div>			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="100" data-from-value="25" data-delimiter=",">25</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-02a0730 elementor-widget elementor-widget-counter" data-id="02a0730" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-title">YEARS ESTABLISHED</div>			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="280" data-from-value="120" data-delimiter=",">120</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner">
+
+				<div data-elementor-type="wp-post" data-elementor-id="150" class="elementor elementor-150" data-elementor-post-type="oceanwp_library">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-5e4643a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e4643a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9b0ef05" data-id="9b0ef05" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c1a5aaa elementor-widget elementor-widget-image" data-id="c1a5aaa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<picture><source srcset="https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2022/10/cropped-Mannings-LogoBlue.png.webp 775w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2022/10/cropped-Mannings-LogoBlue-300x66.png.webp 300w, https://www.manningsschoolja.org/wp-content/webp-express/webp-images/uploads/2022/10/cropped-Mannings-LogoBlue-768x168.png.webp 768w" sizes="(max-width: 775px) 100vw, 775px" type="image/webp"><img width="775" height="170" src="https://www.manningsschoolja.org/wp-content/uploads/2022/10/cropped-Mannings-LogoBlue.png" class="attachment-large size-large wp-image-793 webpexpress-processed" alt="Logo" srcset="https://www.manningsschoolja.org/wp-content/uploads/2022/10/cropped-Mannings-LogoBlue.png 775w, https://www.manningsschoolja.org/wp-content/uploads/2022/10/cropped-Mannings-LogoBlue-300x66.png 300w, https://www.manningsschoolja.org/wp-content/uploads/2022/10/cropped-Mannings-LogoBlue-768x168.png 768w" sizes="(max-width: 775px) 100vw, 775px"></picture>													</div>
+				</div>
+				<div class="elementor-element elementor-element-8d71fdc elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8d71fdc" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">(876) 955 - 2634</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">manningsschool@yahoo.com</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-466a99f" data-id="466a99f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f91b74e elementor-widget elementor-widget-heading" data-id="f91b74e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Quick Links</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2927a87 elementor-nav-menu__align-start elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="2927a87" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
+				<ul id="menu-1-2927a87" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827"><a href="https://classroom.google.com" class="elementor-item">Online Learning</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304"><a href="https://www.manningsschoolja.org/school-song/" class="elementor-item">School Song</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://www.manningsschoolja.org/staff-directory/" class="elementor-item">Staff Directory</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="https://www.manningsschoolja.org/school-governance/" class="elementor-item">School Governance</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353"><a href="https://www.manningsschoolja.org/wp-content/uploads/2022/10/teachers-hand-book.pdf" class="elementor-item">Teachers&#8217; Handbook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-845"><a href="#" class="elementor-item elementor-item-anchor">Students&#8217; Handbook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-354"><a href="https://www.manningsschoolja.org/wp-content/uploads/2022/05/EXTRA-CURRICULAR-PROGAMS-1-converted-2.pdf" class="elementor-item">Extra Curricular Activities</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-2927a87" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827"><a href="https://classroom.google.com" class="elementor-item" tabindex="-1">Online Learning</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304"><a href="https://www.manningsschoolja.org/school-song/" class="elementor-item" tabindex="-1">School Song</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://www.manningsschoolja.org/staff-directory/" class="elementor-item" tabindex="-1">Staff Directory</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="https://www.manningsschoolja.org/school-governance/" class="elementor-item" tabindex="-1">School Governance</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353"><a href="https://www.manningsschoolja.org/wp-content/uploads/2022/10/teachers-hand-book.pdf" class="elementor-item" tabindex="-1">Teachers&#8217; Handbook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-845"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Students&#8217; Handbook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-354"><a href="https://www.manningsschoolja.org/wp-content/uploads/2022/05/EXTRA-CURRICULAR-PROGAMS-1-converted-2.pdf" class="elementor-item" tabindex="-1">Extra Curricular Activities</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-48bd8fd" data-id="48bd8fd" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/oceanwp\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<link rel='stylesheet' id='e-animations-css' href='https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.21.4' media='all' />
+<script src="https://www.manningsschoolja.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="https://www.manningsschoolja.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":0,"isRTL":false});});
+</script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatch.js?ver=6.5.5" id="mec-typekit-script-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.js?ver=6.5.5" id="featherlight-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.min.js?ver=6.5.5" id="mec-select2-script-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.js?ver=6.5.5" id="mec-tooltip-script-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.js?ver=6.5.5" id="mec-lity-script-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.min.js?ver=6.5.5" id="mec-colorbrightness-script-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.min.js?ver=6.5.5" id="mec-owl-carousel-script-js"></script>
+<script src="https://www.manningsschoolja.org/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script id="heartbeat-js-extra">
+var heartbeatSettings = {"ajaxurl":"\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://www.manningsschoolja.org/wp-includes/js/heartbeat.min.js?ver=6.8.8" id="heartbeat-js"></script>
+<script id="ahc_front_js-js-extra">
+var ahc_ajax_front = {"ajax_url":"https:\/\/www.manningsschoolja.org\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.manningsschoolja.org\/wp-content\/plugins\/visitors-traffic-real-time-statistics\/","page_id":"23","page_title":"Home","post_type":"page","visitor_ip":"51.68.236.59"};
+</script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/visitors-traffic-real-time-statistics/js/front.js?ver=6.8.8" id="ahc_front_js-js"></script>
+<script src="https://cdn.canvasjs.com/canvasjs.min.js" id="canvasjs-free-js"></script>
+<script src="https://www.manningsschoolja.org/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"f3752e31c4","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/www.manningsschoolja.org\/wp-admin\/admin-ajax.php","oe_mc_wpnonce":"a5d06512cb"};
+</script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.4.3" id="oceanwp-main-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.4.3" id="oceanwp-drop-down-mobile-menu-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=3.4.3" id="oceanwp-drop-down-search-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=3.4.3" id="ow-magnific-popup-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=3.4.3" id="oceanwp-lightbox-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=3.4.3" id="ow-flickity-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=3.4.3" id="oceanwp-slider-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=3.4.3" id="oceanwp-scroll-effect-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=3.4.3" id="oceanwp-scroll-top-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.4.3" id="oceanwp-select-js"></script>
+<script id="flickr-widget-script-js-extra">
+var flickrWidgetParams = {"widgets":[]};
+</script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=6.8.8" id="flickr-widget-script-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1" id="jquery-numerator-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.21.2" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.4" id="elementor-frontend-modules-js"></script>
+<script src="https://www.manningsschoolja.org/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.manningsschoolja.org\/wp-admin\/admin-ajax.php","nonce":"d0416ab7de","urls":{"assets":"https:\/\/www.manningsschoolja.org\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.manningsschoolja.org\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.manningsschoolja.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.21.2" id="elementor-pro-frontend-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.21.4","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"container_grid":true,"theme_builder_v2":true,"home_screen":true,"ai-layout":true,"landing-pages":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.manningsschoolja.org\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":23,"title":"Manning%27s%20School%20%E2%80%93%20Vita%20Sine%20Litteris%20Mors%20Est","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.4" id="elementor-frontend-js"></script>
+<script src="https://www.manningsschoolja.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.21.2" id="pro-elements-handlers-js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function()
+{
+    jQuery("#mec_weekly_view_month_471_202608").mecWeeklyView(
+    {
+        id: "471",
+        today: "20260801",
+        week: "1",
+        month_id: "202608",
+        current_year: "2026",
+        current_month: "08",
+        month_navigator: 1,
+        changeWeekElement: "#mec_skin_471 .mec-load-week",
+        atts: "atts%5Blabel%5D=&atts%5Bcategory%5D=&atts%5Blocation%5D=&atts%5Borganizer%5D=&atts%5Btag%5D=&atts%5Bauthor%5D=&atts%5Bskin%5D=weekly_view&atts%5Bshow_past_events%5D=1&atts%5Bsk-options%5D%5Bweekly_view%5D%5Bstart_date_type%5D=start_current_month&atts%5Bsk-options%5D%5Bweekly_view%5D%5Bnext_previous_button%5D=1&atts%5Bsf-options%5D%5Bweekly_view%5D%5Bcategory%5D%5Btype%5D=dropdown&atts%5Bsf-options%5D%5Bweekly_view%5D%5Btext_search%5D%5Btype%5D=text_input&atts%5Bsf_status%5D=1&atts%5Bid%5D=471",
+        ajax_url: "https://www.manningsschoolja.org/wp-admin/admin-ajax.php",
+        sed_method: "0",
+        image_popup: "0",
+        sf:
+        {
+            container: "#mec_search_form_471",
+            reset: 0,
+            refine: 0,
+        },
+    });
+});
+</script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 15.295 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2026-08-18 00:48:29 -->
+
+<!-- super cache -->

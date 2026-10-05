@@ -1,0 +1,35 @@
+
+> ai-chatbot@0.1.0 dev
+> next dev --turbo
+
+   ▲ Next.js 15.0.3-canary.2 (Turbopack)
+   - Local:        http://localhost:3000
+   - Environments: .env
+   - Experiments (use with caution):
+     · ppr
+
+ ✓ Starting...
+ ✓ Compiled in 963ms
+ ✓ Ready in 3.9s
+ ○ Compiling /api/history ...
+ ✓ Compiled /api/history in 8.1s
+ GET /api/history 200 in 9545ms
+ GET /api/history 200 in 1285ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 1541ms
+ POST /api/chat 200 in 6375ms
+ ○ Compiling middleware ...
+ ✓ Compiled middleware in 988ms
+ ✓ Compiled in 53ms
+ ○ Compiling middleware ...
+ ✓ Compiled middleware in 837ms
+ ✓ Compiled in 1ms
+ GET /api/history 200 in 581ms
+ GET /api/history 200 in 373ms
+ GET /api/history 200 in 471ms
+ GET /api/history 200 in 430ms
+ GET /api/history 200 in 445ms
+ GET /api/history 200 in 1559ms
+ POST /api/chat 200 in 3126ms
+ GET /api/history 200 in 863ms
+ POST /api/chat 200 in 3243ms
